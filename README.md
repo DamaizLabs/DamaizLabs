@@ -19,6 +19,7 @@ Cada ficha dice su estado real: en producción o concepto.
 - [LicitaRadar — Alertas de licitaciones públicas con IA](https://www.damaizlabs.com/portfolio/alertas-de-licitaciones/)
 - [MarcaDoc — Maquetación de documentos con IA y tu marca](https://www.damaizlabs.com/portfolio/maquetacion-de-documentos-con-ia/)
 - [Mesa Ágil — Sistema de tickets con IA para soporte técnico](https://www.damaizlabs.com/portfolio/sistema-de-tickets-con-ia/)
+- [Recuerda — Recordatorios de citas por WhatsApp con IA](https://www.damaizlabs.com/portfolio/recordatorios-de-citas-por-whatsapp/)
 - [FacturaYa — Facturas automáticas](https://www.damaizlabs.com/portfolio/facturas-automaticas/)
 - [Atiende — Chatbot de atención al cliente con IA](https://www.damaizlabs.com/portfolio/chatbot-atencion-al-cliente/)
 - [Buzón Claro — Automatizar correos con IA](https://www.damaizlabs.com/portfolio/automatizar-correos-con-ia/)
